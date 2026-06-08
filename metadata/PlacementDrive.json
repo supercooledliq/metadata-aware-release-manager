@@ -1,0 +1,10 @@
+{
+  "company": "Acme Software",
+  "role": "Software Engineer Intern",
+  "minCGPA": 7.0,
+  "deadline": "2026-06-15",
+  "eligibleBranches": [
+    "CSE",
+    "IT"
+  ]
+}
